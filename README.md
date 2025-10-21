@@ -1,6 +1,4 @@
-﻿from pathlib import Path
 
-readme_content 
 # 🛒 Hami Minimarket
 
 **Hami Minimarket** is a simple web-based project developed using **HTML**, **CSS**, and a little **JavaScript**.  
@@ -27,6 +25,7 @@ This project was created as part of an **internship program** to demonstrate bas
 | **JavaScript** | Adds interactivity and dynamic behavior |
 
 ---
+
 
 
 
