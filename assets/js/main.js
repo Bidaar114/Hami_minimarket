@@ -14,6 +14,7 @@ burger.addEventListener('click', () => {
 
 navLinks.addEventListener('click', () => {
     navigation.classList.remove('active');
+     burger.classList.remove('active');
 });
 
 //home slider
