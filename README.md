@@ -28,8 +28,8 @@ This project was created as part of an **internship program** to demonstrate bas
 
 ---
 
-## 📁 Project Structure
-|
+
+
 
 
 
