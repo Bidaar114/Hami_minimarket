@@ -640,7 +640,7 @@ nav.active {
             font-size: 26px;
         }
         .hero_img{
-            width: 70%;
+            width: 60%;
            
         }
 
@@ -681,22 +681,40 @@ nav.active {
         .hero {
             flex-direction: column;
             width: 100%;
-            height: auto;
             text-align: center;
+            justify-content: center;
+            align-items: center;
         }
-            
-
-        .hero_img{
-
-            width: 70%;
-            margin-top: 100px;
-            float: none;
-        }
-        .hero_text {
-            width: 100%;
+    .hero_text {
+            flex-basis: auto;
             margin-left: 0;
             margin-top: 20px;
         }
+        .hero_image{
+            flex-basis: auto;
+            margin-top: 0;
+            
+        }
+
+        .hero_img{
+
+            width: 80%;
+            margin-top: 50px;
+            float: none;
+        }
+
+        .apple{
+            width: 40%;
+        }
+
+        .hero_text h1 {
+            font-size: 18px;
+        }
+         .hero_text p {
+            font-size: 14px;
+         }
+        
+        
 
 
            .products {
@@ -804,5 +822,5 @@ nav.active {
 
 
 
-/* responsive css */
+
 
